@@ -11,7 +11,8 @@
 					'name'    => 'Michael Eichelsdoerfer',
 					'website' => 'http://www.michael-eichelsdoerfer.de',
 					'email'   => 'info@michael-eichelsdoerfer.de'
-				)
+				),
+				'description'	=> 'Override the Symphony admin CSS rules using a custom stylesheet.'
 			);
 		}
 
