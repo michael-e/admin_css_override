@@ -12,6 +12,7 @@ This is an extension to the Symphony XSLT Content Management System. It allows
 overriding Admin CSS styles by CSS rules placed in 'assets/aco.css'. The 
 extension simply appends the 'aco.css' stylesheet to the head of admin pages.
 
+Extension home: http://symphony-cms.com/download/extensions/view/22295/
 
 [INSTALLATION]
 
