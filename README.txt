@@ -1,18 +1,17 @@
 Admin CSS Override
--------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
-Version: 1.0
+Version: 1.1
 Author: Michael Eichelsdoerfer
-Build Date: 2009-05-31
+Build Date: 2011-02-11
 Requirements: Symphony 2.0.2 or greater
-
-Compatibilty: Tested on Symphony 2.0.3 to 2.0.6
 
 This is an extension to the Symphony XSLT Content Management System. It allows 
 overriding Admin CSS styles by CSS rules placed in 'assets/aco.css'. The 
 extension simply appends the 'aco.css' stylesheet to the head of admin pages.
 
 Extension home: http://symphony-cms.com/download/extensions/view/22295/
+
 
 [INSTALLATION]
 
@@ -33,9 +32,3 @@ Extension home: http://symphony-cms.com/download/extensions/view/22295/
 
 If you ever update this extension, DO NOT OVERWRITE your aco.css file. 
 (Just in case: You DO have a backup of your website, dont't you?)
-
-
-[CHANGES]
-
-1.0
-- Initial release
