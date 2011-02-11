@@ -1,7 +1,7 @@
 Admin CSS Override
 ------------------------------------------------------------------------------
 
-Version: 1.1.1
+Version: 1.2
 Author: Michael Eichelsdoerfer
 Build Date: 2011-02-11
 Requirements: Symphony 2.0.2 or greater
