@@ -31,7 +31,7 @@
 	-------------------------------------------------------------------------*/
 
 		public function appendAssets() {
-			Administration::instance()->Page->addStylesheetToHead(URL . '/extensions/admin_css_override/assets/aco.css', 'screen', 1000, false);
+			Administration::instance()->Page->addStylesheetToHead(URL . '/extensions/admin_css_override/assets/admin_css_override.css', 'screen', 1000, false);
 		}
 
 	}
