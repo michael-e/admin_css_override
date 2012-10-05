@@ -2,20 +2,6 @@
 
 	Class extension_admin_css_override extends Extension{
 
-		public function about() {
-			return array(
-				'name'         => 'Admin CSS Override',
-				'version'      => '1.3',
-				'release-date' => '2011-12-17',
-				'author'       => array(
-					'name'    => 'Michael Eichelsdoerfer',
-					'website' => 'http://www.michael-eichelsdoerfer.de',
-					'email'   => 'info@michael-eichelsdoerfer.de'
-				),
-				'description'	=> 'Override the Symphony admin CSS rules using a custom stylesheet.'
-			);
-		}
-
 		public function getSubscribedDelegates(){
 			return array(
 				array(

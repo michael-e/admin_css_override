@@ -4,7 +4,7 @@ follows:
 
 ----- begin license block -----
 
-Copyright 2009-2011 Michael Eichelsdoerfer
+Copyright 2009-2012 Michael Eichelsdoerfer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
